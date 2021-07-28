@@ -1,0 +1,5 @@
+ID 		 Product Name 		 Price 		 Quantity 
+2		battery			3000		1
+1		charger			250		1
+
+Total products in our store is : 2

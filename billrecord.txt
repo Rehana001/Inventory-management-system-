@@ -1,0 +1,21 @@
+
+Product id :      12
+
+Original price : 1800
+ with 5% discount: 1710
+Product id :      2
+
+Original price : 100
+ with 5% discount: 95
+Product id :      3
+
+Original price : 1000
+ with 5% discount: 950
+Product id :      3
+
+Original price : 1000
+ with 5% discount: 950
+Product id :      4
+
+Original price : 600
+ with 5% discount: 570
